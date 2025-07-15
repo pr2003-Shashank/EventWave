@@ -1,0 +1,60 @@
+.home-page-hero{
+  background-image:url("/LogoSymbol_PNG.png") ;
+}
+
+.home-page-parallx{
+  background-image: url("/Event-Homepage.jpg");
+}
+.login-bg {
+  background-image: url("./Images/Login_Bg_Image.jpg");
+  background-size: cover;
+  background-position: center;
+}
+.curved-container-login {
+  border-top-left-radius: 100px;
+  border-bottom-left-radius: 100px;
+}
+.curved-container-register {
+  border-top-right-radius: 100px;
+  border-bottom-right-radius: 100px;
+}
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+@keyframes slow-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.glass-bg {
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+  border-radius: 1rem;
+}
+
+
+.slow-spin {
+  animation: slow-spin 20s linear infinite;
+}
+
+
+.float-animation {
+  animation: float 2s ease-in-out infinite;
+}
+
+.leaflet-container {
+  z-index: 0 !important;
+}

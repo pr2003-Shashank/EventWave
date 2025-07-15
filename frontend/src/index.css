@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400..900;1,400..900&family=Abril+Fatface&family=Kaushan+Script&family=Roboto+Slab:wght@400&display=swap');
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+
+@theme{
+    --font-Alegreya:'Alegreya','serif';
+    --font-RobotoSlab: "Roboto Slab", 'serif';
+    --font-Kaushan:"Kaushan Script", 'cursive';
+    --font-Abril:"Abril Fatface", 'serif';
+}
