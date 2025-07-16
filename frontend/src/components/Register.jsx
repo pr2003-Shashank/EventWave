@@ -8,6 +8,7 @@ import { AiFillEye } from "react-icons/ai";
 import { FaInfoCircle } from "react-icons/fa";
 import { BiText } from "react-icons/bi";
 import Logo from "../Images/Logo_PNG.png";
+import "../App.css";
 
 import { ToastContainer, toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
