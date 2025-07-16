@@ -1,2 +1,8 @@
-/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Full_Stack_Project/EventWave/src/test/java/com/eventwave/EventWaveApplicationTests.java
-/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Full_Stack_Project/EventWave/src/test/java/com/eventwave/test/ConcurrentRegistrationTest.java
+/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Test/EventWave/backend/src/test/java/com/eventwave/EventWaveApplicationTests.java
+/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Test/EventWave/backend/src/test/java/com/eventwave/service/AuthServiceTest.java
+/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Test/EventWave/backend/src/test/java/com/eventwave/service/CustomUserDetailsServiceTest.java
+/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Test/EventWave/backend/src/test/java/com/eventwave/service/JwtServiceTest.java
+/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Test/EventWave/backend/src/test/java/com/eventwave/service/RegistrationServiceTest.java
+/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Test/EventWave/backend/src/test/java/com/eventwave/service/ReviewServiceTest.java
+/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Test/EventWave/backend/src/test/java/com/eventwave/service/UserServiceTest.java
+/Users/shashankpr/Documents/Home/Incture-Technologies/Projects/Test/EventWave/backend/src/test/java/com/eventwave/test/ConcurrentRegistrationTest.java
